@@ -15,7 +15,7 @@ Simple custom integration that brings your **Chýně water meter**[](https://chy
 ### Installation
 1. Copy the `mujvodomer` folder into your `custom_components/` directory
 2. Restart HA
-3. Go to **Settings → Devices & Services → + Add Integration → Můj Vodoměr Chýně**
+3. Go to **Settings → Devices & Services → + Add Integration → Muj Vodomer**
 4. Enter your portal credentials
 
 ### Entities created
