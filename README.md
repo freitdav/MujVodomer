@@ -12,6 +12,13 @@ Simple custom integration that brings your **Chýně water meter**[](https://chy
 - Requests
 - Lxml
 
+Resolve dependencies by executing following commands within your HA docker:
+```bash
+python3 -m venv .venv
+. .venv/bin/activate
+pip install beautifulsoup4 requests lxml
+```
+
 ### Installation
 1. Copy the `mujvodomer` folder into your `custom_components/` directory
 2. Restart HA
